@@ -11,3 +11,5 @@ Argumentos: la direccion ip del dispositivo que se quiere medir el ping.
 
 Salida: Imprime el tiempo en milisegundos
 
+
+SI QUIRES CONTRIBUIR A MEJORAR MI CODIGO SON  BIENVENIDAS TUS IDEAS GRACIAS...
